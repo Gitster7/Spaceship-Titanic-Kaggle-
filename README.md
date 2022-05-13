@@ -1,4 +1,4 @@
-# Kaggle-Spaceship-Titanic
+# Spaceship-Titanic (Kaggle)
 
 ## Data Description
 
